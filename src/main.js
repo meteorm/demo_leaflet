@@ -5,7 +5,6 @@ import 'leaflet/dist/leaflet.css';
 import App from './App';
 import router from './router';
 
-
 Vue.config.productionTip = false;
 delete L.Icon.Default.prototype._getIconUrl;
 
