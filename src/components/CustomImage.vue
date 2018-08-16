@@ -11,7 +11,13 @@
 </template>
 
 <script>
-import { LMap, LImageOverlay, LMarker, LPopup, LPolyline } from 'vue2-leaflet';
+import {
+  LMap,
+  LImageOverlay,
+  LMarker,
+  LPopup,
+  LPolyline,
+} from 'vue2-leaflet';
 
 export default {
   name: 'example',
